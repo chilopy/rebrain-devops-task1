@@ -1,2 +1,1 @@
-# rebrain-devops-task1
-rebrain-devops-task1
+В данном репозитории находится дефолтный конфигурационный файл nginx
